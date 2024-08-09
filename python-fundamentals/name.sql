@@ -1,0 +1,1 @@
+SELECT * FROM Persons WHERE LastName="BROWN" AND FirstName="JESSE"
